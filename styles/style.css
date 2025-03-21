@@ -33,10 +33,13 @@
   height: 105px;
 }
 
-.adress {
+.adress_general {
   text-underline-offset: 4px;
   font-size: 18px;
   line-height: 24.3px;
+}
+
+.adress {
   justify-self: end;
   width: 240px;
 }
@@ -244,16 +247,7 @@
 }
 
 .footer__adress {
-  text-underline-offset: 4px;
-  font-size: 18px;
-  line-height: 24.3px;
   margin-bottom: 82px;
-
-  text-underline-offset: 4px;
-  font-size: 18px;
-  line-height: 24.3px;
-  justify-self: end;
-  width: 240px;
 }
 
 .footer__menu-list {
